@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.188507
+color:
+  saturation: 0.5503663
+  lightness: 0.8701234
+  brandStrength: 0.3603652
+  brandColors:
+    - '#171716'
+    - '#FFFFFF'
+    - '#AB784A'
+    - '#EAB492'
+    - '#654231'
+  rhythmicContrast: 0.9609396
+name: Chooky Egg
